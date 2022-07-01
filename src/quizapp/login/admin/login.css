@@ -1,0 +1,9 @@
+
+/* 
+    Created on : 1 July, 2022, 6:32:07 PM
+    Author     : N Krishnachaithanya
+*/
+.jfx-button{
+    -fx-background-radius:20;
+    -fx-text-fill:black;
+}
